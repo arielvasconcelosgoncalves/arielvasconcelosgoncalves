@@ -39,18 +39,17 @@
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Dashboard de Finanças** | Aplicação para controle financeiro pessoal | [Ver projeto](https://github.com/seu-usuario/dashboard-financas) |
-| **API de Transações** | Backend completo para controle de transações | [Ver projeto](https://github.com/seu-usuario/api-transacoes) |
-| **Site Pessoal** | Meu site profissional | [Ver projeto](https://github.com/seu-usuario/site-pessoal) |
-| **Outros Projetos** | Veja todos os meus projetos públicos | [Repositórios](https://github.com/seu-usuario?tab=repositories) |
+| **Livros Vai na Web** | Website para cadastro de livros com API | [Ver projeto](https://github.com/arielvasconcelosgoncalves/livros-vai-na-web) |
+| **API de Livros** | Backend completo para controle de cadastro e consulta de livros do website | [Ver projeto](https://github.com/arielvasconcelosgoncalves/api_livros) |
+| **Outros Projetos** | Veja todos os meus projetos públicos | [Repositórios](https://github.com/arielvasconcelosgoncalves?tab=repositories) |
 
 ---
 
 ## 📫 Como me encontrar
 
-- ✉️ Email: [seu-email@email.com](mailto:seu-email@email.com)
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-linkedin)
-- 🌐 Portfólio Web: [Seu site pessoal](https://seusite.com) *(opcional)*
+- ✉️ Email: [ariel.goncalves@sou.unifeob.edu.br](mailto:ariel.goncalves@sou.unifeob.edu.br)
+- 💼 LinkedIn: [Ariel Vasconcelos](https://www.linkedin.com/in/ariel-vasconcelos-aa4734200/)
+- 🌐 Portfólio Web: [Site Pessoal - Em Andamento](https://seusite.com)
 
 ---
 

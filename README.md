@@ -41,7 +41,7 @@
 | :--- | :--- | :---: |
 | **Livros Vai na Web** | Website para cadastro de livros com API | [Ver projeto](https://github.com/arielvasconcelosgoncalves/livros-vai-na-web) |
 | **API de Livros** | Backend completo para controle de cadastro e consulta de livros do website | [Ver projeto](https://github.com/arielvasconcelosgoncalves/api_livros) |
-| **Web Calculadora** | Website que simulad uma calculadora, feita com html, css e javascript. | [Ver projeto](https://github.com/arielvasconcelosgoncalves/calculadora) |
+| **Web Calculadora** | Website que simula uma calculadora, feita com html, css e javascript. | [Ver projeto](https://github.com/arielvasconcelosgoncalves/calculadora) |
 | **Outros Projetos** | Veja todos os meus projetos públicos | [Repositórios](https://github.com/arielvasconcelosgoncalves?tab=repositories) |
 
 ---

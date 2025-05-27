@@ -50,7 +50,7 @@
 
 - ✉️ Email: [ariel.goncalves@sou.unifeob.edu.br](mailto:ariel.goncalves@sou.unifeob.edu.br)
 - 💼 LinkedIn: [Ariel Vasconcelos](https://www.linkedin.com/in/ariel-vasconcelos-aa4734200/)
-- 🌐 Portfólio Web: [Site Pessoal - Em Andamento](https://seusite.com)
+- 🌐 Portfólio Web: [Site Pessoal - Ariel Vasconcelos](https://portifolio-ariel.netlify.app/)
 
 ---
 

@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou Ariel! 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento e apaixonado por tecnologia! 🚀<br>
+  Desenvolvedor apaixonado por tecnologia! 🚀<br>
   Sempre buscando criar soluções criativas através da programação.
 </p>
 
@@ -17,7 +17,6 @@
 - 🎓 Graduado em Engenharia da Computação e Tecnologia da Informação com Ênfase em IoT pela UNIVESP.
 - 🎓 Fullstack formado pela Vai na Web.
 - 💻 Focado em desenvolvimento com **HTML, CSS, JavaScript, React, Python** e banco de dados como **MySQL** e **MongoDB**.
-- 📚 Atualmente aprimorando habilidades em backend, frontend e APIs REST.
 - 🔎 Sempre em busca de novos desafios e projetos para evoluir.
 
 ---

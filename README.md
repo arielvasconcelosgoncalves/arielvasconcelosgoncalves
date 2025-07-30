@@ -3,7 +3,7 @@
   <img src="./ariel.png" width="300px" alt="Minha imagem de apresentação" />
 </p>
 
-<h1 align="center">Olá, eu sou Ariel! 👋</h1>
+<h1 align="center">Olá, eu sou o Ariel! 👋</h1>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia! 🚀<br>

@@ -32,6 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielvasconcelosgoncalves)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📂 Portfólio de Projetos
@@ -42,6 +43,12 @@
 | **API de Livros** | Backend completo para controle de cadastro e consulta de livros do website | [Ver projeto](https://github.com/arielvasconcelosgoncalves/api_livros) |
 | **Web Calculadora** | Website que simula uma calculadora, feita com html, css e javascript. | [Ver projeto](https://github.com/arielvasconcelosgoncalves/calculadora) |
 | **Outros Projetos** | Veja todos os meus projetos públicos | [Repositórios](https://github.com/arielvasconcelosgoncalves?tab=repositories) |
+
+<!--
+---
+
+[![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arielvasconcelosgoncalves)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ---
 

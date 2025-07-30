@@ -1,6 +1,6 @@
 <!-- Imagem de Apresentação -->
 <p align="center">
-  <img src="./ariel.png" width="300px" alt="Minha imagem de apresentação" />
+  <img src="https://github.com/arielvasconcelosgoncalves/arielvasconcelosgoncalves/blob/main/ariel.png?raw=true" width="300px" alt="Minha imagem de apresentação" />
 </p>
 
 <h1 align="center">Olá, eu sou o Ariel! 👋</h1>

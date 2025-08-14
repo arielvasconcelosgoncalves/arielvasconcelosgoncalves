@@ -55,7 +55,7 @@
 ## 📫 Como me encontrar
 
 - ✉️ Email: [ariel.goncalves@sou.unifeob.edu.br](mailto:ariel.goncalves@sou.unifeob.edu.br)
-- 💼 LinkedIn: [Ariel Vasconcelos](https://www.linkedin.com/in/ariel-vasconcelos-aa4734200/)
+- 💼 LinkedIn: [Ariel Vasconcelos](https://www.linkedin.com/in/arielvasconcelosgoncalves/)
 - 🌐 Portfólio Web: [Site Pessoal - Ariel Vasconcelos](https://portifolio-ariel.netlify.app/)
 
 ---
@@ -63,3 +63,4 @@
 <p align="center">
   Obrigado por visitar meu perfil! 🚀
 </p>
+
